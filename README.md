@@ -63,7 +63,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/credit-card-fraud-detection.git
+    git clone https://github.com/Keerthana82/codesoft-task1-credit-card-fraud-detection.git
     ```
 
 2. Open the Jupyter Notebook:

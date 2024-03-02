@@ -8,7 +8,7 @@ This project focuses on the detection of credit card fraud using machine learnin
 
 The dataset used in this project is sourced from Kaggle. It includes information about credit card transactions, with features such as transaction details, user information, and labels indicating whether a transaction is fraudulent or not.
 
-- [Kaggle Dataset Link](https://www.kaggle.com/your-username/credit-card-fraud-detection)
+- [Kaggle Dataset Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 Ensure that you have the dataset downloaded or linked correctly before running the code.
 
